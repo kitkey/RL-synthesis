@@ -1,0 +1,400 @@
+custom test: 1
+
+spi
+orig area + delay: 2174 2659 ad: 5780666
+7 steps area + delay: 2094 2101 ad: 4399494
+10 steps area + delay: 2092 2114 ad: 4422488
+['rf', 'rf', 'rw', 'rw', 'rw', 'b', 'b', 'b', 'b', 'rf']
+
+(unfixed) 
+Better than mean: 1 11.320371624084691%
+Better than best : 0 -0.4919647433642593%
+Better than orig: 1 23.892956278740197%
+
+(10 step) 
+Better than mean: 1 10.856886647204211%
+Better than best : 0 -1.0171870160412766%
+Better than orig: 1 23.495182043037943%
+
+best ad: 4377956 mean ad: 4961110.1
+
+ss_pcm
+orig area + delay: 282 423 ad: 119286
+1 steps area + delay: 267 525 ad: 140175
+10 steps area + delay: 267 525 ad: 140175
+['rw', 'rf', 'rf', 'b', 'b', 'b', 'b', 'rf', 'rf', 'rf']
+
+(unfixed) 
+Better than mean: 1 8.452569222233796%
+Better than best : 0 -0.3759398496240518%
+Better than orig: 0 -17.51169458276747%
+
+(10 step) 
+Better than mean: 1 8.452569222233796%
+Better than best : 0 -0.3759398496240518%
+Better than orig: 0 -17.51169458276747%
+
+best ad: 139650 mean ad: 153117.35
+
+usb_phy
+orig area + delay: 308 278 ad: 85624
+5 steps area + delay: 305 221 ad: 67405
+10 steps area + delay: 305 221 ad: 67405
+['rw', 'rf', 'rf', 'b', 'b', 'b', 'b', 'rf', 'rf', 'rf']
+
+(unfixed) 
+Better than mean: 1 14.820833733502493%
+Better than best : 1 2.5319567354965544%
+Better than orig: 1 21.27791273474726%
+
+(10 step) 
+Better than mean: 1 14.820833733502493%
+Better than best : 1 2.5319567354965544%
+Better than orig: 1 21.27791273474726%
+
+best ad: 69156 mean ad: 79133.2
+
+des3_area
+orig area + delay: 3517 4685 ad: 16477145
+5 steps area + delay: 3475 2986 ad: 10376350
+10 steps area + delay: 3502 2986 ad: 10456972
+['rw', 'rf', 'rf', 'b', 'b', 'b', 'b', 'rf', 'rf', 'rf']
+
+(unfixed) 
+Better than mean: 1 22.501848137127066%
+Better than best : 1 0.2296870513924798%
+Better than orig: 1 37.02580149655781%
+
+(10 step) 
+Better than mean: 1 21.899704223372375%
+Better than best : 0 -0.545506747057134%
+Better than orig: 1 36.536505565739695%
+
+best ad: 10400238 mean ad: 13389158.0
+
+fpu
+orig area + delay: 20339 31312 ad: 636854768
+9 steps area + delay: 19992 29726 ad: 594282192
+10 steps area + delay: 19992 29726 ad: 594282192
+['rw', 'rf', 'rf', 'b', 'b', 'b', 'b', 'rf', 'rf', 'rf']
+
+(unfixed) 
+Better than mean: 1 1.94207248044308%
+Better than best : 0 -1.654473828143188%
+Better than orig: 1 6.6848170319422024%
+
+(10 step) 
+Better than mean: 1 1.94207248044308%
+Better than best : 0 -1.654473828143188%
+Better than orig: 1 6.6848170319422024%
+
+best ad: 584609973 mean ad: 606052164.3
+
+aes_xcrypt
+orig area + delay: 34030 121445 ad: 4132773350
+10 steps area + delay: 32891 70342 ad: 2313618722
+10 steps area + delay: 32891 70342 ad: 2313618722
+['rf', 'rf', 'rw', 'rw', 'rw', 'b', 'b', 'b', 'b', 'rf']
+
+(unfixed) 
+Better than mean: 1 36.176200959361296%
+Better than best : 1 5.855548601842509%
+Better than orig: 1 44.01776903637844%
+
+(10 step) 
+Better than mean: 1 36.176200959361296%
+Better than best : 1 5.855548601842509%
+Better than orig: 1 44.01776903637844%
+
+best ad: 2457520000 mean ad: 3625009411.5
+
+tinyRocket
+orig area + delay: 28116 25553 ad: 718448148
+8 steps area + delay: 27340 14563 ad: 398152420
+10 steps area + delay: 27382 15129 ad: 414262278
+['rw', 'rf', 'rf', 'b', 'b', 'b', 'b', 'rf', 'rf', 'rf']
+
+(unfixed) 
+Better than mean: 1 32.30284591699054%
+Better than best : 0 -8.755312397715587%
+Better than orig: 1 44.58160674387318%
+
+(10 step) 
+Better than mean: 1 29.563715160780635%
+Better than best : 0 -13.155719255654152%
+Better than orig: 1 42.33929349623712%
+
+best ad: 366099284 mean ad: 588137604.0
+
+pci
+orig area + delay: 11895 9091 ad: 108137445
+8 steps area + delay: 11733 8975 ad: 105303675
+10 steps area + delay: 11733 8975 ad: 105303675
+['rw', 'rf', 'rf', 'b', 'b', 'b', 'b', 'rf', 'rf', 'rf']
+
+(unfixed) 
+Better than mean: 0 -2.8655118404277813%
+Better than best : 0 -9.946837704147082%
+Better than orig: 1 2.6205261276517122%
+
+(10 step) 
+Better than mean: 0 -2.8655118404277813%
+Better than best : 0 -9.946837704147082%
+Better than orig: 1 2.6205261276517122%
+
+best ad: 95776902 mean ad: 102370243.55
+
+simple_spi
+orig area + delay: 537 457 ad: 245409
+1 steps area + delay: 535 439 ad: 234865
+10 steps area + delay: 549 469 ad: 257481
+['rw', 'rf', 'rf', 'b', 'b', 'b', 'b', 'rf', 'rf', 'rf']
+
+(unfixed) 
+Better than mean: 1 13.639413064968908%
+Better than best : 1 5.701322947824861%
+Better than orig: 1 4.296500943323189%
+
+(10 step) 
+Better than mean: 1 5.323439913913353%
+Better than best : 0 -3.3790376006263445%
+Better than orig: 0 -4.919134995049079%
+
+best ad: 249065 mean ad: 271958.55
+
+aes
+orig area + delay: 20085 1177 ad: 23640045
+6 steps area + delay: 19365 1013 ad: 19616745
+10 steps area + delay: 20469 1006 ad: 20591814
+['rw', 'rf', 'rf', 'b', 'b', 'b', 'b', 'rf', 'rf', 'rf']
+
+(unfixed) 
+Better than mean: 1 5.392050669776882%
+Better than best : 0 -6.332869517893935%
+Better than orig: 1 17.019003136415346%
+
+(10 step) 
+Better than mean: 1 0.6894724109744454%
+Better than best : 0 -11.618246105495157%
+Better than orig: 1 12.894353627499445%
+
+best ad: 18448430 mean ad: 20734774.55
+
+wb_dma
+orig area + delay: 2415 2417 ad: 5837055
+1 steps area + delay: 2400 2372 ad: 5692800
+10 steps area + delay: 2369 2486 ad: 5889334
+['rf', 'rf', 'rw', 'rw', 'rw', 'b', 'b', 'b', 'b', 'rf']
+
+(unfixed) 
+Better than mean: 1 8.830664145021828%
+Better than best : 0 -26.342645836227717%
+Better than orig: 1 2.4713661255547525%
+
+(10 step) 
+Better than mean: 1 5.683201691936834%
+Better than best : 0 -30.704405525093858%
+Better than orig: 0 -0.8956400102448914%
+
+best ad: 4505842 mean ad: 6244204.75
+
+fir
+orig area + delay: 3453 1086 ad: 3749958
+8 steps area + delay: 3508 1067 ad: 3743036
+10 steps area + delay: 3508 1067 ad: 3743036
+['rw', 'rf', 'rf', 'b', 'b', 'b', 'b', 'rf', 'rf', 'rf']
+
+(unfixed) 
+Better than mean: 1 6.900313044997453%
+Better than best : 0 -0.8794185865374393%
+Better than orig: 1 0.18458873406048681%
+
+(10 step) 
+Better than mean: 1 6.900313044997453%
+Better than best : 0 -0.8794185865374393%
+Better than orig: 1 0.18458873406048681%
+
+best ad: 3710406 mean ad: 4020460.35
+
+tv80
+orig area + delay: 5808 2778 ad: 16134624
+3 steps area + delay: 5770 2381 ad: 13738370
+10 steps area + delay: 5736 2561 ad: 14689896
+['rw', 'rf', 'rf', 'b', 'b', 'b', 'b', 'rf', 'rf', 'rf']
+
+(unfixed) 
+Better than mean: 1 5.740827622163824%
+Better than best : 0 -11.075914033212397%
+Better than orig: 1 14.85162591951321%
+
+(10 step) 
+Better than mean: 0 -0.7876072107889209%
+Better than best : 0 -18.769084342089393%
+Better than orig: 1 8.954209283092062%
+
+best ad: 12368451 mean ad: 14575101.45
+
+aes_secworks
+orig area + delay: 24275 11138 ad: 270374950
+5 steps area + delay: 23052 10317 ad: 237827484
+10 steps area + delay: 22889 10720 ad: 245370080
+['rw', 'rf', 'rf', 'b', 'b', 'b', 'b', 'rf', 'rf', 'rf']
+
+(unfixed) 
+Better than mean: 0 -1.892748408359357%
+Better than best : 0 -8.123596357155982%
+Better than orig: 1 12.037899960776688%
+
+(10 step) 
+Better than mean: 0 -5.12423294348523%
+Better than best : 0 -11.552689545515559%
+Better than orig: 1 9.248219925699475%
+
+best ad: 219958910 mean ad: 233409627.0
+
+dynamic_node
+orig area + delay: 11523 4537 ad: 52279851
+3 steps area + delay: 11192 3958 ad: 44297936
+10 steps area + delay: 11177 5602 ad: 62613554
+['rw', 'rf', 'rf', 'b', 'b', 'b', 'b', 'rf', 'rf', 'rf']
+
+(unfixed) 
+Better than mean: 1 16.462594416870946%
+Better than best : 0 -13.93543376790538%
+Better than orig: 1 15.267669756748159%
+
+(10 step) 
+Better than mean: 0 -18.077145975811447%
+Better than best : 0 -61.04367559563424%
+Better than orig: 0 -19.766129402319834%
+
+best ad: 38879859 mean ad: 53027665.5
+
+sha256
+orig area + delay: 9199 33884 ad: 311698916
+6 steps area + delay: 9527 21546 ad: 205268742
+10 steps area + delay: 9489 22522 ad: 213711258
+['rw', 'rf', 'rf', 'b', 'b', 'b', 'b', 'rf', 'rf', 'rf']
+
+(unfixed) 
+Better than mean: 1 11.17614149970132%
+Better than best : 0 -4.378309707521466%
+Better than orig: 1 34.145185798464574%
+
+(10 step) 
+Better than mean: 1 7.52289727330806%
+Better than best : 0 -8.671294314786726%
+Better than orig: 1 31.436637399149635%
+
+best ad: 196658427 mean ad: 231096403.0
+
+ac97_ctrl
+orig area + delay: 7448 1373 ad: 10226104
+3 steps area + delay: 7410 958 ad: 7098780
+10 steps area + delay: 7427 958 ad: 7115066
+['rf', 'rf', 'rw', 'rw', 'rw', 'b', 'b', 'b', 'b', 'rf']
+
+(unfixed) 
+Better than mean: 1 0.316181902978685%
+Better than best : 1 0.06349170595597586%
+Better than orig: 1 30.58177386030887%
+
+(10 step) 
+Better than mean: 1 0.08748758345785701%
+Better than best : 0 -0.16578233466464365%
+Better than orig: 1 30.422514771999186%
+
+best ad: 7103290 mean ad: 7121296.25
+
+i2c
+orig area + delay: 651 481 ad: 313131
+8 steps area + delay: 646 463 ad: 299098
+10 steps area + delay: 646 463 ad: 299098
+['rw', 'rf', 'rf', 'b', 'b', 'b', 'b', 'rf', 'rf', 'rf']
+
+(unfixed) 
+Better than mean: 1 22.482836157139307%
+Better than best : 1 6.329312137497334%
+Better than orig: 1 4.481510933123833%
+
+(10 step) 
+Better than mean: 1 22.482836157139307%
+Better than best : 1 6.329312137497334%
+Better than orig: 1 4.481510933123833%
+
+best ad: 319308 mean ad: 385847.45
+
+mem_ctrl
+orig area + delay: 7615 4942 ad: 37633330
+10 steps area + delay: 6237 4384 ad: 27343008
+10 steps area + delay: 6237 4384 ad: 27343008
+['rf', 'rf', 'rw', 'rw', 'rw', 'b', 'b', 'b', 'b', 'rf']
+
+(unfixed) 
+Better than mean: 1 6.095499777278668%
+Better than best : 0 -12.84156249469952%
+Better than orig: 1 27.343639268701438%
+
+(10 step) 
+Better than mean: 1 6.095499777278668%
+Better than best : 0 -12.84156249469952%
+Better than orig: 1 27.343639268701438%
+
+best ad: 24231327 mean ad: 29117888.85
+
+iir
+orig area + delay: 4880 2137 ad: 10428560
+5 steps area + delay: 4801 2074 ad: 9957274
+10 steps area + delay: 4802 2191 ad: 10521182
+['rw', 'rf', 'rf', 'b', 'b', 'b', 'b', 'rf', 'rf', 'rf']
+
+(unfixed) 
+Better than mean: 0 -1.2608108792833583%
+Better than best : 0 -9.919288764387524%
+Better than orig: 1 4.519185774450163%
+
+(10 step) 
+Better than mean: 0 -6.995491007731669%
+Better than best : 0 -16.14432247226263%
+Better than orig: 0 -0.8881571377064468%
+
+best ad: 9058714 mean ad: 9833294.75
+
+sasc
+orig area + delay: 420 507 ad: 212940
+6 steps area + delay: 419 507 ad: 212433
+10 steps area + delay: 420 507 ad: 212940
+['rw', 'rf', 'rf', 'b', 'b', 'b', 'b', 'rf', 'rf', 'rf']
+
+(unfixed) 
+Better than mean: 1 0.035786711201235555%
+Better than best : 0 -0.23923444976077235%
+Better than orig: 1 0.23809523809523725%
+
+(10 step) 
+Better than mean: 0 -0.20279136347369775%
+Better than best : 0 -0.4784688995215225%
+Better than orig: 0 0.0%
+
+best ad: 211926 mean ad: 212509.05
+
+wb_conmax
+orig area + delay: 25039 2885 ad: 72237515
+4 steps area + delay: 24994 2428 ad: 60685432
+10 steps area + delay: 25845 2537 ad: 65568765
+['rf', 'rf', 'rw', 'rw', 'rw', 'b', 'b', 'b', 'b', 'rf']
+
+(unfixed) 
+Better than mean: 1 7.708495444148655%
+Better than best : 0 -4.881771423830994%
+Better than orig: 1 15.991805642815926%
+
+(10 step) 
+Better than mean: 1 0.281834135760195%
+Better than best : 0 -13.32156658739596%
+Better than orig: 1 9.231699069382437%
+
+best ad: 57860800 mean ad: 65754082.45
+
+
+
